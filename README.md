@@ -1,6 +1,17 @@
-# CVZone
+# 規則：
+
+1. 手請勿擅自離開視窗，否則視為違規
+2. 將手勢✌️在所選按鈕上閉合以選取選項
+3. 每題作答完需選擇next/prev進行題目切換
+4. 若需更改答案則重新選擇一次選項即可
+5. 作答完畢可選擇check/submit 
+6. 選check 則回到作答畫面供使用者檢查作答狀況
+7. 選submit 則繳交答案卷，作答狀況會顯示在視窗中
 
 
+# CVZone補充資料
+
+[![Downloads](https://pepy.tech/badge/cvzone)](https://pepy.tech/project/cvzone)
 [![Downloads](https://pepy.tech/badge/cvzone/month)](https://pepy.tech/project/cvzone)
 [![Downloads](https://pepy.tech/badge/cvzone/week)](https://pepy.tech/project/cvzone)
 
