@@ -1,6 +1,6 @@
 # CVZone
 
-[![Downloads](https://pepy.tech/badge/cvzone)](https://pepy.tech/project/cvzone)
+
 [![Downloads](https://pepy.tech/badge/cvzone/month)](https://pepy.tech/project/cvzone)
 [![Downloads](https://pepy.tech/badge/cvzone/week)](https://pepy.tech/project/cvzone)
 
